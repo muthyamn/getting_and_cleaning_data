@@ -2,7 +2,7 @@
 
 ### run_analysis.R code performs the following steps to get tidy data set ########
 
-## 1. install data.table and reshape2 packages if the not exist already
+#### 1. install data.table and reshape2 packages if the not exist already
 ## 2 reads and loads activity labels and data columns
 ## 3. Merges the training and the test sets to create one data set.
 ## 4. Extracts only the measurements on the mean and standard deviation for each measurement.
