@@ -1,4 +1,4 @@
-This document describes the metadata of files and variables in used in program run_analysis.R.
+This document describes the metadata of files and variables used in program run_analysis.R.
 
 Downloads the given url to the given destiny file. It also creates data dir if it doesn't exist.
 extractUciHarFile
